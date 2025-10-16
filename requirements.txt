@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+tensorflow
+scikit-learn
+flwr
+tflite-runtime
